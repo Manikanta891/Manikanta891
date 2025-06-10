@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Manikanta Sandula!
 
-🚀 CSE Student | Full Stack Developer | ML Explorer | Hackathon Addict | Reinforcement Gym Guy
+🚀 CSE Student | Full Stack Developer | ML Explorer | Generative AI | Hackathon Addict | Reinforcement Gym Guy
 
 ---
 
