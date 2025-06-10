@@ -84,7 +84,7 @@ From winning the **CodeNite** event in my first year to leading teams in **Smart
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikanta891&show_icons=true&theme=react)
 
 ---
 
