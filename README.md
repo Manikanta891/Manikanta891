@@ -90,7 +90,7 @@ From winning the **CodeNite** event in my first year to leading teams in **Smart
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/manikanta-sandula)
+- 💼 [LinkedIn] www.linkedin.com/in/manikanta-sandula
 - 📧 Email: manikantacsec@gmail.com
 
 ---
